@@ -9,7 +9,7 @@
 #### Twilio API
  - POST /voicetwilio/voice - [Twilio Voice Callback URL](#twilio-voice-callback-url). 
  - POST /voicetwilio/statuscallback - [Twilio Voice Status Callback URL](#twilio-voice-status-callback-url). 
- - POST /voicetwilio/gather - [Twilio Voice Status Callback URL](#twilio-voice-status-callback-url).  
+ - POST /voicetwilio/gather - [gather call user input](#gather-call-user-input).  
 
 #### Agent Console API
  - Post /voicetwilio/tokens -[Create a Client Token ](#create-a-client-token).
